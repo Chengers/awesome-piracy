@@ -486,6 +486,7 @@ for any IP address.
 ### Download Managers
 - [JDownloader2](http://www.jdownloader.org/home/index) :star2: JDownloader is a free, open-source download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [Internet Download Manager](https://www.internetdownloadmanager.com/) shareware download manager for Windows
+- [Xtreme Download Manager](https://sourceforge.net/projects/xdman/) open source download manager for Windows and Linux
 - [pyLoad](https://pyload.net/) Free and Open Source download manager written in Python and designed to be extremely lightweight, easily extensible and fully manageable via web
 
 ### DDL Tools
